@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\Admin\source\repos\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.GameCaro.resources
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.GameCaro.resources
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+F:\MyDocument\STUDY 2020-2021\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG C#\C-ShapeWinform-GameCaro-LAN-master\GAMECARO_C#\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+E:\BaocaoTTCS\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+E:\BaocaoTTCS\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+E:\BaocaoTTCS\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+E:\BaocaoTTCS\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+E:\BaocaoTTCS\GameCaro\GameCaro\obj\Debug\GameCaro.GameCaro.resources
+E:\BaocaoTTCS\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+E:\BaocaoTTCS\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+E:\BaocaoTTCS\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+E:\BaocaoTTCS\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+E:\BaocaoTTCS\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
